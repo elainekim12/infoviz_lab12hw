@@ -13,7 +13,7 @@ Welcome to my assignment page.
 <h2>Images</h2>
 <img src="Narrative Infographic.png">
 
-<h2>D3</h2>
+<h2>D3 </h2>
 <iframe width="100%" height="384" frameborder="0"
   src="https://observablehq.com/embed/@elainekim/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr?cells=animatedNodes2"></iframe>
 
